@@ -1,0 +1,17 @@
+{
+  "name": "pixi-practice",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pixi.js": "^7.2.0",
+    "pixi-viewport": "^4.40.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
